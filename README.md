@@ -91,5 +91,4 @@ ip webcam어플을 통해 스마트폰으로 cctv기능 수행
 |Before|After|
 |------|----|
 |<img src="https://github.com/user-attachments/assets/a8ca7d54-111a-4ce1-99cc-d7981596e1d3" width="500">|<img src="https://github.com/user-attachments/assets/87167ead-4c85-499d-8492-165ba8490128" width="500">
-|
 
