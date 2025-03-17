@@ -78,7 +78,8 @@ CCTV의 화재 감지 및 신고
 
 아두이노 카메라**(esp 32cam)**로 카메라 영상 출력→Flask 웹 서버 생성&학습시킨 yolo 적용→추출 객체 정보 웹 서버에 출력→아두이노 와이파이로 서버의 문자열 해석→LED센서로 결과 출력
 
-<img src="https://github.com/user-attachments/assets/b94f8669-f013-4d74-b499-a9f56a8e6344" width="500">
+<img src="https://github.com/user-attachments/assets/b94f8669-f013-4d74-b499-a9f56a8e6344" width="500">   
+
 
 
 **신고 시스템**
@@ -86,3 +87,9 @@ CCTV의 화재 감지 및 신고
 ip webcam어플을 통해 스마트폰으로 cctv기능 수행
 
 스마트폰이 cctv라는 가정 하에 불꽃, 스파크, 연기 감지
+
+|Before|After|
+|------|----|
+|<img src="https://github.com/user-attachments/assets/a8ca7d54-111a-4ce1-99cc-d7981596e1d3" width="500">|<img src="https://github.com/user-attachments/assets/87167ead-4c85-499d-8492-165ba8490128" width="500">
+|
+
