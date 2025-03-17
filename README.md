@@ -71,14 +71,14 @@ CCTV의 화재 감지 및 신고
 
 ### 3️⃣ 프로젝트 결과물
 
-![image](https://github.com/user-attachments/assets/c3d8689d-174d-47bd-a2a3-bf616e8d14f6)
-![image](https://github.com/user-attachments/assets/4d0cebc7-c7e1-451b-92bf-41a9e887b989)
+<img src="https://github.com/user-attachments/assets/c3d8689d-174d-47bd-a2a3-bf616e8d14f6" width="300">
+<img src="https://github.com/user-attachments/assets/4d0cebc7-c7e1-451b-92bf-41a9e887b989" width="300">
 
 **근무모**
 
 아두이노 카메라**(esp 32cam)**로 카메라 영상 출력→Flask 웹 서버 생성&학습시킨 yolo 적용→추출 객체 정보 웹 서버에 출력→아두이노 와이파이로 서버의 문자열 해석→LED센서로 결과 출력
 
-![image](https://github.com/user-attachments/assets/b94f8669-f013-4d74-b499-a9f56a8e6344)
+<img src="https://github.com/user-attachments/assets/b94f8669-f013-4d74-b499-a9f56a8e6344" width="500">
 
 
 **신고 시스템**
